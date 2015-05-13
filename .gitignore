@@ -1,1 +1,5 @@
+# Matlab autosave files
 *.asv
+
+# Functions which contain sensitive info
+computer_name.m
